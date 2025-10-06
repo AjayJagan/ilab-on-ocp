@@ -232,7 +232,7 @@ eval-type-backport==0.2.2 \
     --hash=sha256:cb6ad7c393517f476f96d456d0412ea80f0a8cf96f6892834cd9340149111b0a \
     --hash=sha256:f0576b4cf01ebb5bd358d02314d31846af5e07678387486e2c798af0e7d849c1
     # via model-registry
-frozenlist==1.6.0 \
+frozenlist==1.8.0 \
     --hash=sha256:01bcaa305a0fdad12745502bfd16a1c75b14558dabae226852f9159364573117 \
     --hash=sha256:03572933a1969a6d6ab509d509e5af82ef80d4a5d4e1e9f2e1cdd22c77a3f4d2 \
     --hash=sha256:0dbae96c225d584f834b8d3cc688825911960f003a85cb0fd20b6e5512468c42 \
