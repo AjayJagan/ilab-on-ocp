@@ -912,9 +912,9 @@ rsa==4.9.1 \
     --hash=sha256:68635866661c6836b8d39430f97a996acbd61bfa49406748ea243539fe239762 \
     --hash=sha256:e7bdbfdb5497da4c07dfd35530e1a902659db6ff241e39d9953cad06ebd0ae75
     # via google-auth
-setuptools==80.3.1 \
-    --hash=sha256:31e2c58dbb67c99c289f51c16d899afedae292b978f8051efaf6262d8212f927 \
-    --hash=sha256:ea8e00d7992054c4c592aeb892f6ad51fe1b4d90cc6947cc45c45717c40ec537
+setuptools==82.0.1 \
+    --hash=sha256:7d872682c5d01cfde07da7bccc7b65469d3dca203318515ada1de5eda35efbf9 \
+    --hash=sha256:a59e362652f08dcd477c78bb6e7bd9d80a7995bc73ce773050228a348ce2e5bb
     # via kubeflow-training
 six==1.17.0 \
     --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274 \
