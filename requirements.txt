@@ -577,9 +577,9 @@ oauthlib==3.2.2 \
     # via
     #   kubernetes
     #   requests-oauthlib
-olot==0.1.2 \
-    --hash=sha256:cdd1a1da751ef29dce002e94a681411fdeb956c32878eba4803230ca1550f653 \
-    --hash=sha256:e8b02c8a2e74a1b2d642c48bc0ded4236fadce6636faa63c6a736a14ef208893
+olot==0.1.17 \
+    --hash=sha256:0e55538df2fa4cc386a71338ede415266e60fcc2a19c42bfcf435ba38cf786c4 \
+    --hash=sha256:32e5251a447f82a1f0a854c5c6642ccfaa99e5a431251e21340f13508fbfb743
     # via ilab-on-ocp (pyproject.toml)
 propcache==0.3.1 \
     --hash=sha256:050b571b2e96ec942898f8eb46ea4bfbb19bd5502424747e83badc2d4a99a44e \
