@@ -224,9 +224,9 @@ click==8.1.8 \
     #   ilab-on-ocp (pyproject.toml)
     #   kfp
     #   olot
-docstring-parser==0.16 \
-    --hash=sha256:538beabd0af1e2db0146b6bd3caa526c35a34d61af9fd2887f3a8a27a739aa6e \
-    --hash=sha256:bf0a1387354d3691d102edef7ec124f219ef639982d096e26e3b60aeffa90637
+docstring-parser==0.18.0 \
+    --hash=sha256:292510982205c12b1248696f44959db3cdd1740237a968ea1e2e7a900eeb2015 \
+    --hash=sha256:b3fcbed555c47d8479be0796ef7e19c2670d428d72e96da63f3a40122860374b
     # via kfp
 eval-type-backport==0.2.2 \
     --hash=sha256:cb6ad7c393517f476f96d456d0412ea80f0a8cf96f6892834cd9340149111b0a \
