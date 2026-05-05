@@ -435,8 +435,9 @@ kfp==2.13.0 \
     # via
     #   ilab-on-ocp (pyproject.toml)
     #   kfp-kubernetes
-kfp-kubernetes==1.5.0 \
-    --hash=sha256:84c2080f25934d21484f7a48eadbfd1f01f213fde0feb77f65346dbc544c855f
+kfp-kubernetes==2.16.1 \
+    --hash=sha256:31267b58d04ad97165fb640ab8fe99c2ac58b9f46077a046bd34d281e9491d54 \
+    --hash=sha256:d6bb854d93a6bc6893f70e9e4f4978d6133760ae62d8626be8a4360993cc9375
     # via ilab-on-ocp (pyproject.toml)
 kfp-pipeline-spec==0.6.0 \
     --hash=sha256:9e319b62eaa54c6790a96f796d34f071458c9cae9585c662629eb090688555a7
