@@ -86,7 +86,7 @@ trove-classifiers==2025.5.9.12
     # via hatchling
 types-psutil==7.0.0.20250401
     # via mypy
-types-setuptools==80.3.0.20250505
+types-setuptools==82.0.0.20260518
     # via mypy
 typing-extensions==4.13.2
     # via
