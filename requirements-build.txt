@@ -82,7 +82,7 @@ setuptools-scm==8.3.1
     #   setuptools-rust
     #   sniffio
     #   tabulate
-trove-classifiers==2025.5.9.12
+trove-classifiers==2026.6.1.19
     # via hatchling
 types-psutil==7.0.0.20250401
     # via mypy
