@@ -455,9 +455,9 @@ kubernetes==30.1.0 \
     #   ilab-on-ocp (pyproject.toml)
     #   kfp
     #   kubeflow-training
-model-registry==0.2.17 \
-    --hash=sha256:4fa0e2a2736b0aae8eb829fed75523670eb517d17dcc403d4265a1b5f82e0c1e \
-    --hash=sha256:ea4753fdc74a8f296fa73bf526aac927ba91316eb04322b0fe371f462c530d7d
+model-registry==0.3.10 \
+    --hash=sha256:094ed4efdbc8b699489fd61d0d27e6d11f22a4d1eb2b76cdc129e5d57896e022 \
+    --hash=sha256:0e9f2abe805364bf35c3e48b9ca278dabd45dc5be7731d5158fabd6110e2fc36
     # via ilab-on-ocp (pyproject.toml)
 multidict==6.4.3 \
     --hash=sha256:032efeab3049e37eef2ff91271884303becc9e54d740b492a93b7e7266e23756 \
