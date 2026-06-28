@@ -69,9 +69,9 @@ semantic-version==2.10.0
     # via setuptools-rust
 setuptools-rust==1.11.1
     # via maturin
-setuptools-scm==7.1.0
+setuptools-scm==10.2.0
     # via python-dateutil
-setuptools-scm==8.3.1
+setuptools-scm==10.2.0
     # via
     #   anyio
     #   charset-normalizer
