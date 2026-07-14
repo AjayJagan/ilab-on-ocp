@@ -104,7 +104,7 @@ wheel==0.45.1
     #   tabulate
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==80.3.1
+setuptools==80.10.2
     # via
     #   aiohttp
     #   aiosignal
