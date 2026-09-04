@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/python-312:1
+FROM registry.access.redhat.com/ubi8/python-312:1-1788410494
 
 ARG SOURCE_CODE=.
 
