@@ -430,8 +430,9 @@ idna==3.10 \
     #   httpx
     #   requests
     #   yarl
-kfp==2.13.0 \
-    --hash=sha256:bd3e820452157472614217849f7a1cfd9c5d0d3cc7473ace80b6494ca06e8886
+kfp==2.18.2 \
+    --hash=sha256:3196d7663006a66c659f081871495abae486b6b24fafe799e554dfa0603986f9 \
+    --hash=sha256:9bf49e1c3fb7ec730d646b5309b5b58ebad680ecb3e47c196d841e2ce87885c8
     # via
     #   ilab-on-ocp (pyproject.toml)
     #   kfp-kubernetes
